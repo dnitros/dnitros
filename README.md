@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hello there 👋, I'm Digvijay</h1>
+<h3 align="center">Building resilient systems in Java, scaling them with Kubernetes.</h3>
 
-<!--
-**dnitros/dnitros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>🎮 I’m currently working on GitLab CI, Kubernetes, GCP</li>
+  <li>🍀 Currently learning more about computer networks</li>
+  <li>👥 Looking to collaborate on Java and Kubernetes</li>
+  <li>💬 Ask me about Java, CI/CD, Bash/Zsh, Docker, Traefik</li>
+  <li>⚡ Fun fact: I maintain a Raspberry Pi homelab and love automating everything</li>
+</ul>
 
-Here are some ideas to get you started:
+<h2 align="left">⚡ Technologies & Tools:</h2>
+<p align="left">
+  <img alt="java" src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="spring" src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img alt="spring-boot" src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img alt="go" src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <br>
+  <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="postgresql" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="redis" src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
+  <br>
+  <img alt="apache-kafka" src="https://img.shields.io/badge/apache_kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img alt="rabbitmq" src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  <br>
+  <img alt="bash" src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img alt="git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="linux" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+  <br>
+  <img alt="docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="traefik-proxy" src="https://img.shields.io/badge/traefik_proxy-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white">
+  <br>
+  <img alt="github-actions" src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img alt="gitlab" src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img alt="jenkins" src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">⚡ GitHub Stats:</h2>
+<p align="left">
+  <img alt="dnitros-github-stats" src="https://github-readme-stats.vercel.app/api?username=dnitros&show_icons=true&theme=catppuccin_mocha">
+  <img alt="dnitros-streak" src="https://streak-stats.demolab.com/?user=dnitros&theme=catppuccin-mocha" height="195px">
+</p>
