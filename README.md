@@ -34,7 +34,7 @@
 <h2 align="left">⚡ GitHub Stats:</h2>
 <p align="left">
   <img alt="dnitros-github-stats" src="https://github-readme-stats.vercel.app/api?username=dnitros&show_icons=true&theme=catppuccin_mocha">
-  <img alt="dnitros-streak" src="https://streak-stats.demolab.com/?user=dnitros&theme=catppuccin-mocha" height="195px">
+  <img alt="dnitros-streak" src="https://github-readme-streak-stats-eight.vercel.app?user=dnitros&theme=catppuccin-mocha" height="195px">
   <hr>
   <br>
   <img alt="dnitros-view-counter" src="https://komarev.com/ghpvc/?username=dnitros&style=for-the-badge&abbreviated=true">
