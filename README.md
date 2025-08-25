@@ -9,7 +9,6 @@
   <li>⚡ Fun fact: I maintain a Raspberry Pi homelab and love automating everything</li>
 </ul>
 
-
 <h2 align="left">⚡ Technologies & Tools:</h2>
 <p align="left">
   <img alt="java" src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
